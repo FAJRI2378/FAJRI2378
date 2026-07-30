@@ -1,6 +1,6 @@
 # Hi 👋, I'm Arman Tri Fajri
 
-### Full-Stack & Front-End Web Developer from Jakarta, Indonesia
+### Full-Stack Developer from Jakarta, Indonesia
 
 <p align="center">
   <a href="https://instagram.com" target="_blank">
@@ -46,6 +46,7 @@
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![GDevelop](https://img.shields.io/badge/GDevelop-000000?style=flat-square&logo=gdevelop&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
