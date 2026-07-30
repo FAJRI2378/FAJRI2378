@@ -1,78 +1,56 @@
+# Hi 👋, I'm Arman Tri Fajri
 
-<div align="center">
+### Full-Stack & Front-End Web Developer from Jakarta, Indonesia
 
-  <!-- Header Banner / Typing Animation -->
-  <h1>Hi 👋, I'm <a href="[https://github.com/FAJRI2378](https://github.com/FAJRI2378)">Arman Tri Fajri</a></h1>
-  <h3>Full-Stack & Front-End Web Developer from Jakarta, Indonesia</h3>
+<p align="center">
+  <a href="https://instagram.com" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-  <p>
-    <a href="[https://instagram.com/armntrifjri](https://instagram.com/armntrifjri)"><img src="[https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)" alt="Instagram" /></a>
-    <a href="[https://www.linkedin.com/in/arman-tri-fajri-2846a7334](https://www.linkedin.com/in/arman-tri-fajri-2846a7334)"><img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn" /></a>
-    <a href="mailto:armanfajri008@gmail.com"><img src="[https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)" alt="Email" /></a>
-  </p>
+🎓 **Student at SMK Negeri 21 Jakarta & Politeknik Negeri Jakarta**  
+🚀 **Currently mastering Laravel, Next.js, and Modern Web Architecture**
 
-  <p>
-    🎓 Student at <b>SMK Negeri 21 Jakarta</b> & <b>Politeknik Negeri Jakarta</b><br>
-    🚀 Currently mastering <b>Laravel, Next.js, and Modern Web Architecture</b>
-  </p>
-
-</div>
-
-<hr />
+---
 
 ## 🛠️ Tech Stack & Tools
 
-<p align="center">
-  <b>Languages & Frameworks</b><br>
-  <img src="[https://skillicons.dev/icons?i=php,laravel,js,ts,react,next,tailwind,html,css,c,cpp](https://skillicons.dev/icons?i=php,laravel,js,ts,react,next,tailwind,html,css,c,cpp)" alt="Tech Stack" />
-</p>
+### Languages & Frameworks
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
-<p align="center">
-  <b>Backend, Database & Hosting</b><br>
-  <img src="[https://skillicons.dev/icons?i=nodejs,express,mysql,postgres,mongodb,vercel](https://skillicons.dev/icons?i=nodejs,express,mysql,postgres,mongodb,vercel)" alt="Backend & Cloud" />
-</p>
+### Backend, Database & Hosting
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=flat-square&logo=hostinger&logoColor=white)
 
-<p align="center">
-  <b>Design & Workflow</b><br>
-  <img src="[https://skillicons.dev/icons?i=ps,pr,figma,github](https://skillicons.dev/icons?i=ps,pr,figma,github)" alt="Design Tools" />
-</p>
+### Design & Workflow
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-<hr />
+---
 
 ## 🐍 GitHub Contribution Snake
 
-<p align="center">
-  <img src="[https://raw.githubusercontent.com/FAJRI2378/FAJRI2378/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/FAJRI2378/FAJRI2378/output/github-contribution-grid-snake.svg)" alt="Snake animation" />
-</p>
+![Snake Animation](https://github.com/FAJRI2378/FAJRI2378/blob/output/github-contribution-grid-snake.svg)
 
-<hr />
+---
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-
-  <img height="185" src="[https://github-readme-stats.vercel.app/api?username=FAJRI2378&show_icons=true&theme=tokyonight&hide_border=true&count_private=true](https://github-readme-stats.vercel.app/api?username=FAJRI2378&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)" alt="Arman's GitHub Stats" />
-  <img height="185" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=FAJRI2378&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=FAJRI2378&layout=compact&theme=tokyonight&hide_border=true)" alt="Top Languages" />
-
-  <br><br>
-
-  <img src="[https://nirzak-streak-stats.vercel.app/?user=FAJRI2378&theme=tokyonight&hide_border=true](https://nirzak-streak-stats.vercel.app/?user=FAJRI2378&theme=tokyonight&hide_border=true)" alt="GitHub Streak" />
-
-</div>
-
-<hr />
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="[https://github-profile-trophy.vercel.app/?username=FAJRI2378&theme=tokyonight&no-frame=true&margin-w=4](https://github-profile-trophy.vercel.app/?username=FAJRI2378&theme=tokyonight&no-frame=true&margin-w=4)" alt="Trophies" />
-</div>
-
-<hr />
-
-<div align="center">
-
-  ### 👁️ Profile Views
-  ![Visitor Count](https://visitcount.itsvg.in/api?id=FAJRI2378&icon=5&color=6)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FAJRI2378&show_icons=true&theme=dark" alt="Arman's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FAJRI2378&layout=compact&theme=dark" alt="Top Languages" width="48%" />
+</p>
