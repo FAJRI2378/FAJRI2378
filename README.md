@@ -1,45 +1,4 @@
-name: generate animation
 
-on:
-  # run automatically every 24 hours
-  schedule:
-    - cron: "0 */24 * * *"
-  
-  # allows to manually run the job at any time
-  workflow_dispatch:
-  
-  # run on every push on the master/main branch
-  push:
-    branches:
-    - master
-    - main
-
-jobs:
-  generate:
-    permissions: 
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-    
-    steps:
-      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
-      - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
-      # push the content of <build_dir> to aBerikut adalah template `README.md` yang disempurnakan. Tampilannya dibuat lebih modern, rapi, responsif, serta sudah dilengkapi **fitur animasi Ular (Snake Game)** dari aktivitas kontribusi GitHub kamu.
-
----
-
-### 📝 Salin Kode Markdown di Bawah Ini:
-
-```markdown
 <div align="center">
 
   <!-- Header Banner / Typing Animation -->
