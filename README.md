@@ -44,7 +44,7 @@
 
 ## 🐍 GitHub Contribution Snake
 
-![Snake Animation](https://raw.githubusercontent.com/FAJRI2378/FAJRI2378/output/github-contribution-grid-snake.svg)
+![Snake Animation](https://raw.githubusercontent.com/FAJRI2378/FAJRI2378/output/github-snake-dark.svg)
 
 ---
 
@@ -52,5 +52,5 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FAJRI2378&show_icons=true&theme=dark" alt="Arman's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-three-51.vercel.app/api/top-langs/?username=FAJRI2378&layout=compact&theme=dark" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FAJRI2378&layout=compact&theme=dark" alt="Top Languages" width="48%" />
 </p>
