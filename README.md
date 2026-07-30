@@ -56,8 +56,6 @@
 
 ## 📊 GitHub Analytics
 
-## 📊 GitHub Analytics
-
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=FAJRI2378&show_icons=true&theme=dark&include_all_commits=true" alt="Arman's GitHub Stats" width="48%" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FAJRI2378&layout=compact&theme=dark" alt="Top Languages" width="48%" />
