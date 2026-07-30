@@ -14,7 +14,7 @@
   </a>
 </p>
 
-🎓 **Student at SMK Negeri 21 Jakarta & Politeknik Negeri Jakarta**  
+🎓 **Student at Politeknik Negeri Jakarta**  
 🚀 **Currently mastering Laravel, Next.js, and Modern Web Architecture**
 
 ---
